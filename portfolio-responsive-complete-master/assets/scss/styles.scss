@@ -260,6 +260,7 @@ img{
         }
     }
 }
+/* ===== EDUCATION =====*/
 
 /* ===== SKILLS =====*/
 .skills{
@@ -451,6 +452,13 @@ img{
             & img{
                 width: 300px;
             }
+        }
+    }
+    .education{
+        &__container{
+            grid-template-columns: repeat(2,1fr);
+            align-items: left;
+            text-align: initial;
         }
     }
     .skills{

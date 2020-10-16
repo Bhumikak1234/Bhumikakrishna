@@ -247,10 +247,6 @@ img{
   width: 200px;
   border-radius: .5rem;
 }
-/*---education---*/
-.education_details{
-    margin-left: 175px;
-}
 
 /* ===== SKILLS =====*/
 .skills__container{
@@ -323,10 +319,6 @@ img{
 }
 .work__img img:hover{
   transform: scale(1.1);
-}
-.work-details{
-    margin-top: auto;
-    margin-left:205px;
 }
 
 /* ===== CONTACT =====*/

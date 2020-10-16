@@ -44,6 +44,10 @@ sr.reveal('.about__img',{});
 sr.reveal('.about__subtitle',{delay: 400}); 
 sr.reveal('.about__text',{delay: 400}); 
 
+/*SCROLL EDUCAITON*/
+sr.reveal('.education__subtitle',{});  
+sr.reveal('.education__text',{delay: 400}); 
+
 /*SCROLL SKILLS*/
 sr.reveal('.skills__subtitle',{}); 
 sr.reveal('.skills__text',{}); 
